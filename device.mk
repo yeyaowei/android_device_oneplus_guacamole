@@ -423,6 +423,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     RemovePackages
 
+# MyUI Apps
+PRODUCT_PACKAGES += \
+    MyUIMessaging \
+    MyUIDialer \
+    MyUICalendar
+
 # RIL
 PRODUCT_PACKAGES += \
     android.hardware.radio@1.5.vendor \
