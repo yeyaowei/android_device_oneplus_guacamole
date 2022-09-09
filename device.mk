@@ -426,7 +426,6 @@ PRODUCT_PACKAGES += \
 # MyUI Apps
 PRODUCT_PACKAGES += \
     MyUIMessaging \
-    MyUIDialer \
     MyUICalendar
 
 # RIL
